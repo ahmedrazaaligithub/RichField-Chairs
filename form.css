@@ -1,0 +1,31 @@
+.body{
+    display: block;
+    /* background-color: ; */
+}
+.signup{
+    color: #C9ab81;
+    margin-top: -10px;
+}
+.main-div{
+    display: flex;
+    justify-content: center;
+}
+.session-1{
+    background-color: #C9ab81;
+    height: 560px;
+    width: 500px;
+    border-radius: 40px;
+}
+.session-2{
+    color: #fcd9a8;
+}
+.form-check-input , .form-control{
+    border: 2px solid yellow;
+}
+.btn{
+    width: 150px;
+    border-radius: 10px;
+}
+.btn:hover{
+    border: 2px solid white;
+}
